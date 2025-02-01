@@ -1,0 +1,1148 @@
+Columna,Tipo de Dato
+host_is_superhost,int64
+host_listings_count,float64
+host_total_listings_count,float64
+host_has_profile_pic,int64
+host_identity_verified,int64
+accommodates,float64
+beds,float64
+minimum_nights,float64
+maximum_nights,float64
+minimum_minimum_nights,float64
+maximum_minimum_nights,float64
+minimum_maximum_nights,float64
+maximum_maximum_nights,float64
+minimum_nights_avg_ntm,float64
+maximum_nights_avg_ntm,float64
+has_availability,int64
+availability_30,float64
+availability_60,float64
+availability_90,float64
+availability_365,float64
+number_of_reviews,float64
+number_of_reviews_ltm,float64
+number_of_reviews_l30d,float64
+review_scores_rating,float64
+review_scores_accuracy,float64
+review_scores_cleanliness,float64
+review_scores_checkin,float64
+review_scores_communication,float64
+review_scores_location,float64
+review_scores_value,float64
+instant_bookable,int64
+calculated_host_listings_count,float64
+calculated_host_listings_count_entire_homes,float64
+calculated_host_listings_count_private_rooms,float64
+calculated_host_listings_count_shared_rooms,float64
+reviews_per_month,float64
+p_phost_response_rate,float64
+p_host_acceptance_rate,float64
+tfidf_airbnb,float64
+tfidf_apartment,float64
+tfidf_boston,float64
+tfidf_business,float64
+tfidf_comfortable,float64
+tfidf_enjoy,float64
+tfidf_every,float64
+tfidf_experience,float64
+tfidf_family,float64
+tfidf_furnished,float64
+tfidf_guest,float64
+tfidf_hospital,float64
+tfidf_hosting,float64
+tfidf_housing,float64
+tfidf_provide,float64
+tfidf_providing,float64
+tfidf_rental,float64
+tfidf_travel,float64
+tfidf_welcome,float64
+tfidf_youre,float64
+p_host_since,float64
+p_first_review,float64
+p_last_review,float64
+p_host_verifications_email,int64
+p_host_verifications_phone,int64
+p_host_verifications_work_email,int64
+"p_host_location_Acton, MA",int64
+"p_host_location_Andover, MA",int64
+"p_host_location_Arlington, VA",int64
+"p_host_location_Austin, TX",int64
+"p_host_location_Barnstable, MA",int64
+"p_host_location_Belvedere Tiburon, CA",int64
+"p_host_location_Beverly, MA",int64
+"p_host_location_Boston, MA",int64
+"p_host_location_Braintree, MA",int64
+"p_host_location_Brookline, MA",int64
+"p_host_location_Cabrera, Dominican Republic",int64
+"p_host_location_Cambridge, MA",int64
+"p_host_location_Camden, NJ",int64
+"p_host_location_Carlsbad, CA",int64
+"p_host_location_Chantilly, VA",int64
+"p_host_location_Clearwater, FL",int64
+"p_host_location_Cohasset, MA",int64
+"p_host_location_Dedham, MA",int64
+"p_host_location_Denver, CO",int64
+"p_host_location_Everett, MA",int64
+"p_host_location_Fort Wayne, IN",int64
+"p_host_location_Framingham, MA",int64
+"p_host_location_Glenview, IL",int64
+"p_host_location_Hawthorne, NJ",int64
+"p_host_location_Ho Chi Minh City, Vietnam",int64
+"p_host_location_Houston, TX",int64
+"p_host_location_Incline Village, NV",int64
+"p_host_location_Istanbul, Turkey",int64
+"p_host_location_Jackson, NH",int64
+p_host_location_Jamaica,int64
+"p_host_location_Lancaster, MA",int64
+"p_host_location_Lexington, MA",int64
+"p_host_location_London, United Kingdom",int64
+"p_host_location_Los Angeles, CA",int64
+"p_host_location_Manchester-by-the-Sea, MA",int64
+"p_host_location_Massachusetts, United States",int64
+"p_host_location_Medford, MA",int64
+"p_host_location_Medway, MA",int64
+"p_host_location_Melrose, MA",int64
+"p_host_location_Miami, FL",int64
+"p_host_location_Milton, MA",int64
+"p_host_location_Natick, MA",int64
+"p_host_location_New York, NY",int64
+"p_host_location_New York, United States",int64
+"p_host_location_Newburyport, MA",int64
+"p_host_location_Newton, MA",int64
+"p_host_location_Niagara-on-the-Lake, Canada",int64
+"p_host_location_Old Lyme, CT",int64
+"p_host_location_Orlando, FL",int64
+"p_host_location_Palm Coast, FL",int64
+"p_host_location_Pasadena, CA",int64
+"p_host_location_Pavones, Costa Rica",int64
+"p_host_location_Quincy, MA",int64
+"p_host_location_Randolph, MA",int64
+"p_host_location_Salt Lake City, UT",int64
+"p_host_location_San Francisco, CA",int64
+"p_host_location_Savannah, GA",int64
+"p_host_location_Sharon, MA",int64
+"p_host_location_Shrewsbury, MA",int64
+"p_host_location_Stoneham, MA",int64
+"p_host_location_Swampscott, MA",int64
+"p_host_location_São Paulo, Brazil",int64
+"p_host_location_Texas, United States",int64
+"p_host_location_Toronto, Canada",int64
+p_host_location_United Kingdom,int64
+p_host_location_United States,int64
+"p_host_location_Vail, CO",int64
+"p_host_location_Watertown, MA",int64
+"p_host_location_Wayland, MA",int64
+"p_host_location_Wellesley, MA",int64
+"p_host_location_West Lafayette, IN",int64
+"p_host_location_Winthrop, MA",int64
+p_host_location_nan,int64
+p_host_id_8229,int64
+p_host_id_26988,int64
+p_host_id_38997,int64
+p_host_id_49383,int64
+p_host_id_69587,int64
+p_host_id_118371,int64
+p_host_id_119019,int64
+p_host_id_128280,int64
+p_host_id_131662,int64
+p_host_id_172007,int64
+p_host_id_174986,int64
+p_host_id_189855,int64
+p_host_id_197327,int64
+p_host_id_202410,int64
+p_host_id_205107,int64
+p_host_id_255183,int64
+p_host_id_314576,int64
+p_host_id_392021,int64
+p_host_id_392970,int64
+p_host_id_416912,int64
+p_host_id_432317,int64
+p_host_id_480310,int64
+p_host_id_501427,int64
+p_host_id_510840,int64
+p_host_id_757253,int64
+p_host_id_771785,int64
+p_host_id_775932,int64
+p_host_id_799496,int64
+p_host_id_814298,int64
+p_host_id_887148,int64
+p_host_id_914769,int64
+p_host_id_953185,int64
+p_host_id_987917,int64
+p_host_id_1035747,int64
+p_host_id_1263583,int64
+p_host_id_1355344,int64
+p_host_id_1407005,int64
+p_host_id_1414385,int64
+p_host_id_1450086,int64
+p_host_id_1521296,int64
+p_host_id_1531239,int64
+p_host_id_1755506,int64
+p_host_id_1760577,int64
+p_host_id_1770603,int64
+p_host_id_1788949,int64
+p_host_id_1911807,int64
+p_host_id_1922657,int64
+p_host_id_2006852,int64
+p_host_id_2089913,int64
+p_host_id_2127414,int64
+p_host_id_2134782,int64
+p_host_id_2236975,int64
+p_host_id_2317686,int64
+p_host_id_2355815,int64
+p_host_id_2356643,int64
+p_host_id_2707695,int64
+p_host_id_2796552,int64
+p_host_id_2881238,int64
+p_host_id_2935501,int64
+p_host_id_2964887,int64
+p_host_id_3029783,int64
+p_host_id_3033456,int64
+p_host_id_3137257,int64
+p_host_id_3201643,int64
+p_host_id_3230419,int64
+p_host_id_3335303,int64
+p_host_id_3340035,int64
+p_host_id_3521413,int64
+p_host_id_3634393,int64
+p_host_id_3637081,int64
+p_host_id_3668535,int64
+p_host_id_3731207,int64
+p_host_id_3847479,int64
+p_host_id_3851718,int64
+p_host_id_3932821,int64
+p_host_id_4061992,int64
+p_host_id_4111092,int64
+p_host_id_4161865,int64
+p_host_id_4271667,int64
+p_host_id_4366463,int64
+p_host_id_4434391,int64
+p_host_id_4436209,int64
+p_host_id_4546050,int64
+p_host_id_4611055,int64
+p_host_id_4737456,int64
+p_host_id_4762495,int64
+p_host_id_4842537,int64
+p_host_id_4883147,int64
+p_host_id_5322468,int64
+p_host_id_5408229,int64
+p_host_id_5430185,int64
+p_host_id_5578043,int64
+p_host_id_5618949,int64
+p_host_id_5681297,int64
+p_host_id_5784364,int64
+p_host_id_6428297,int64
+p_host_id_6430732,int64
+p_host_id_6518778,int64
+p_host_id_6570954,int64
+p_host_id_6574212,int64
+p_host_id_6608084,int64
+p_host_id_6775301,int64
+p_host_id_6885890,int64
+p_host_id_7303930,int64
+p_host_id_7324551,int64
+p_host_id_7353037,int64
+p_host_id_7427795,int64
+p_host_id_7437427,int64
+p_host_id_7701185,int64
+p_host_id_7723912,int64
+p_host_id_7988017,int64
+p_host_id_8157833,int64
+p_host_id_8369475,int64
+p_host_id_8441226,int64
+p_host_id_8469839,int64
+p_host_id_8503653,int64
+p_host_id_8513158,int64
+p_host_id_8814724,int64
+p_host_id_8898973,int64
+p_host_id_8955520,int64
+p_host_id_8958031,int64
+p_host_id_8985714,int64
+p_host_id_9056166,int64
+p_host_id_9073339,int64
+p_host_id_9076046,int64
+p_host_id_9410008,int64
+p_host_id_9419684,int64
+p_host_id_9529655,int64
+p_host_id_9653086,int64
+p_host_id_9658771,int64
+p_host_id_9663343,int64
+p_host_id_9705586,int64
+p_host_id_9785157,int64
+p_host_id_9795590,int64
+p_host_id_9898255,int64
+p_host_id_10085529,int64
+p_host_id_10197317,int64
+p_host_id_10250028,int64
+p_host_id_10250257,int64
+p_host_id_10502779,int64
+p_host_id_10619687,int64
+p_host_id_10692181,int64
+p_host_id_10778805,int64
+p_host_id_10844648,int64
+p_host_id_11124961,int64
+p_host_id_11132354,int64
+p_host_id_11206328,int64
+p_host_id_11228809,int64
+p_host_id_11554621,int64
+p_host_id_12165186,int64
+p_host_id_12357599,int64
+p_host_id_12795084,int64
+p_host_id_13271600,int64
+p_host_id_13524330,int64
+p_host_id_13608358,int64
+p_host_id_13776857,int64
+p_host_id_13819661,int64
+p_host_id_13822322,int64
+p_host_id_13960633,int64
+p_host_id_14338444,int64
+p_host_id_15057786,int64
+p_host_id_15154687,int64
+p_host_id_15396970,int64
+p_host_id_15424706,int64
+p_host_id_15540270,int64
+p_host_id_15583990,int64
+p_host_id_15639915,int64
+p_host_id_15761642,int64
+p_host_id_15782998,int64
+p_host_id_15862012,int64
+p_host_id_15975701,int64
+p_host_id_16016039,int64
+p_host_id_16052189,int64
+p_host_id_16186589,int64
+p_host_id_16441460,int64
+p_host_id_16612533,int64
+p_host_id_16742781,int64
+p_host_id_16853932,int64
+p_host_id_16865734,int64
+p_host_id_17519841,int64
+p_host_id_17844905,int64
+p_host_id_18150109,int64
+p_host_id_18165984,int64
+p_host_id_18202088,int64
+p_host_id_18292698,int64
+p_host_id_18338326,int64
+p_host_id_18409308,int64
+p_host_id_18479599,int64
+p_host_id_18517776,int64
+p_host_id_18601802,int64
+p_host_id_18896448,int64
+p_host_id_19004383,int64
+p_host_id_19197577,int64
+p_host_id_19488432,int64
+p_host_id_19533296,int64
+p_host_id_19604526,int64
+p_host_id_19610602,int64
+p_host_id_19718932,int64
+p_host_id_20062444,int64
+p_host_id_20079643,int64
+p_host_id_20259404,int64
+p_host_id_20491040,int64
+p_host_id_20551003,int64
+p_host_id_20672298,int64
+p_host_id_20828559,int64
+p_host_id_20857768,int64
+p_host_id_21126247,int64
+p_host_id_21299112,int64
+p_host_id_21554910,int64
+p_host_id_21609039,int64
+p_host_id_21674032,int64
+p_host_id_21745230,int64
+p_host_id_21748373,int64
+p_host_id_22096965,int64
+p_host_id_22103867,int64
+p_host_id_22240400,int64
+p_host_id_22348222,int64
+p_host_id_22402141,int64
+p_host_id_22541573,int64
+p_host_id_22779809,int64
+p_host_id_22901863,int64
+p_host_id_23490243,int64
+p_host_id_23576640,int64
+p_host_id_23692234,int64
+p_host_id_24158689,int64
+p_host_id_24196977,int64
+p_host_id_24358957,int64
+p_host_id_24532370,int64
+p_host_id_24593919,int64
+p_host_id_24613567,int64
+p_host_id_24751162,int64
+p_host_id_25146457,int64
+p_host_id_25203946,int64
+p_host_id_25244802,int64
+p_host_id_25654103,int64
+p_host_id_25938192,int64
+p_host_id_26083391,int64
+p_host_id_26098645,int64
+p_host_id_26303242,int64
+p_host_id_26704689,int64
+p_host_id_26755141,int64
+p_host_id_26956083,int64
+p_host_id_27014807,int64
+p_host_id_27180387,int64
+p_host_id_27630785,int64
+p_host_id_27756951,int64
+p_host_id_27842033,int64
+p_host_id_27871799,int64
+p_host_id_28299940,int64
+p_host_id_28564205,int64
+p_host_id_28662210,int64
+p_host_id_28741809,int64
+p_host_id_28766987,int64
+p_host_id_28929296,int64
+p_host_id_29066396,int64
+p_host_id_29218948,int64
+p_host_id_29241680,int64
+p_host_id_29483150,int64
+p_host_id_29500286,int64
+p_host_id_29573894,int64
+p_host_id_29684380,int64
+p_host_id_29688938,int64
+p_host_id_30276767,int64
+p_host_id_30283594,int64
+p_host_id_30314324,int64
+p_host_id_30489899,int64
+p_host_id_30490577,int64
+p_host_id_30593609,int64
+p_host_id_31035862,int64
+p_host_id_31070527,int64
+p_host_id_31289781,int64
+p_host_id_31340713,int64
+p_host_id_31368662,int64
+p_host_id_31416791,int64
+p_host_id_31691830,int64
+p_host_id_32304279,int64
+p_host_id_32532791,int64
+p_host_id_32870796,int64
+p_host_id_33131531,int64
+p_host_id_33787905,int64
+p_host_id_34037485,int64
+p_host_id_34055750,int64
+p_host_id_34124402,int64
+p_host_id_34227346,int64
+p_host_id_34275177,int64
+p_host_id_34552909,int64
+p_host_id_34584706,int64
+p_host_id_34719298,int64
+p_host_id_35557247,int64
+p_host_id_35974790,int64
+p_host_id_35990162,int64
+p_host_id_36238029,int64
+p_host_id_36294853,int64
+p_host_id_36571974,int64
+p_host_id_36992931,int64
+p_host_id_37035419,int64
+p_host_id_37177446,int64
+p_host_id_37226557,int64
+p_host_id_37327467,int64
+p_host_id_37907846,int64
+p_host_id_38403389,int64
+p_host_id_39266840,int64
+p_host_id_40132620,int64
+p_host_id_40508782,int64
+p_host_id_40548611,int64
+p_host_id_40995423,int64
+p_host_id_41266357,int64
+p_host_id_41306542,int64
+p_host_id_41397622,int64
+p_host_id_41645684,int64
+p_host_id_41658743,int64
+p_host_id_42431392,int64
+p_host_id_42530911,int64
+p_host_id_42715907,int64
+p_host_id_42852577,int64
+p_host_id_42947943,int64
+p_host_id_43118173,int64
+p_host_id_43217109,int64
+p_host_id_43613912,int64
+p_host_id_43777733,int64
+p_host_id_44581223,int64
+p_host_id_44676705,int64
+p_host_id_44851947,int64
+p_host_id_45170293,int64
+p_host_id_45455727,int64
+p_host_id_45771009,int64
+p_host_id_45824409,int64
+p_host_id_46066426,int64
+p_host_id_46575567,int64
+p_host_id_46580723,int64
+p_host_id_47480466,int64
+p_host_id_47504058,int64
+p_host_id_47584294,int64
+p_host_id_48005494,int64
+p_host_id_48494513,int64
+p_host_id_49565531,int64
+p_host_id_50437930,int64
+p_host_id_50767440,int64
+p_host_id_51079261,int64
+p_host_id_51772323,int64
+p_host_id_51992629,int64
+p_host_id_52471469,int64
+p_host_id_52472113,int64
+p_host_id_52569277,int64
+p_host_id_52881930,int64
+p_host_id_52989144,int64
+p_host_id_53309087,int64
+p_host_id_53555696,int64
+p_host_id_53597553,int64
+p_host_id_53999130,int64
+p_host_id_54140849,int64
+p_host_id_56355458,int64
+p_host_id_56359408,int64
+p_host_id_57323581,int64
+p_host_id_57329784,int64
+p_host_id_57402911,int64
+p_host_id_57533988,int64
+p_host_id_59224820,int64
+p_host_id_59978794,int64
+p_host_id_60155656,int64
+p_host_id_60664882,int64
+p_host_id_61191055,int64
+p_host_id_61701374,int64
+p_host_id_62835472,int64
+p_host_id_63248058,int64
+p_host_id_64331842,int64
+p_host_id_65145071,int64
+p_host_id_65277362,int64
+p_host_id_66084480,int64
+p_host_id_66257167,int64
+p_host_id_66645251,int64
+p_host_id_67103816,int64
+p_host_id_67383376,int64
+p_host_id_67637928,int64
+p_host_id_68078375,int64
+p_host_id_68502098,int64
+p_host_id_69267172,int64
+p_host_id_69967323,int64
+p_host_id_70331522,int64
+p_host_id_70703613,int64
+p_host_id_70833557,int64
+p_host_id_71840781,int64
+p_host_id_72139831,int64
+p_host_id_72298155,int64
+p_host_id_73102139,int64
+p_host_id_73103807,int64
+p_host_id_73341042,int64
+p_host_id_74646031,int64
+p_host_id_74782650,int64
+p_host_id_75960211,int64
+p_host_id_75997654,int64
+p_host_id_76181684,int64
+p_host_id_77086857,int64
+p_host_id_77476995,int64
+p_host_id_78964422,int64
+p_host_id_79330208,int64
+p_host_id_79348179,int64
+p_host_id_79360660,int64
+p_host_id_79365305,int64
+p_host_id_79566228,int64
+p_host_id_79864748,int64
+p_host_id_80104460,int64
+p_host_id_80345475,int64
+p_host_id_80570686,int64
+p_host_id_80808278,int64
+p_host_id_81492503,int64
+p_host_id_82861960,int64
+p_host_id_84349533,int64
+p_host_id_84573727,int64
+p_host_id_84744174,int64
+p_host_id_84804757,int64
+p_host_id_85533422,int64
+p_host_id_85742085,int64
+p_host_id_86359918,int64
+p_host_id_86375666,int64
+p_host_id_86525716,int64
+p_host_id_88194508,int64
+p_host_id_88360952,int64
+p_host_id_89227862,int64
+p_host_id_89328922,int64
+p_host_id_90175388,int64
+p_host_id_90419082,int64
+p_host_id_90878813,int64
+p_host_id_92025425,int64
+p_host_id_92524206,int64
+p_host_id_92648590,int64
+p_host_id_92691757,int64
+p_host_id_92721057,int64
+p_host_id_92903178,int64
+p_host_id_94288387,int64
+p_host_id_95459395,int64
+p_host_id_95460673,int64
+p_host_id_95634275,int64
+p_host_id_95762630,int64
+p_host_id_96442537,int64
+p_host_id_96744012,int64
+p_host_id_96961013,int64
+p_host_id_98244983,int64
+p_host_id_100148225,int64
+p_host_id_101548273,int64
+p_host_id_102027626,int64
+p_host_id_102134649,int64
+p_host_id_103216039,int64
+p_host_id_103346817,int64
+p_host_id_104174476,int64
+p_host_id_104477953,int64
+p_host_id_105384549,int64
+p_host_id_105620455,int64
+p_host_id_105698174,int64
+p_host_id_105851798,int64
+p_host_id_106914997,int64
+p_host_id_107434423,int64
+p_host_id_107981961,int64
+p_host_id_108560094,int64
+p_host_id_108724738,int64
+p_host_id_108872119,int64
+p_host_id_109550763,int64
+p_host_id_110286596,int64
+p_host_id_110532335,int64
+p_host_id_110658696,int64
+p_host_id_112008372,int64
+p_host_id_112905339,int64
+p_host_id_113533375,int64
+p_host_id_114515516,int64
+p_host_id_116319471,int64
+p_host_id_117831587,int64
+p_host_id_117861820,int64
+p_host_id_118122992,int64
+p_host_id_119007535,int64
+p_host_id_119265681,int64
+p_host_id_122377513,int64
+p_host_id_122657660,int64
+p_host_id_124261946,int64
+p_host_id_124868966,int64
+p_host_id_127718668,int64
+p_host_id_129278480,int64
+p_host_id_130680380,int64
+p_host_id_131681547,int64
+p_host_id_131944063,int64
+p_host_id_132854775,int64
+p_host_id_133407298,int64
+p_host_id_133457702,int64
+p_host_id_133927887,int64
+p_host_id_135920429,int64
+p_host_id_137105899,int64
+p_host_id_137161971,int64
+p_host_id_137810727,int64
+p_host_id_139072570,int64
+p_host_id_140147775,int64
+p_host_id_142029634,int64
+p_host_id_144179185,int64
+p_host_id_144676466,int64
+p_host_id_145521726,int64
+p_host_id_147256535,int64
+p_host_id_147418936,int64
+p_host_id_148198110,int64
+p_host_id_148594740,int64
+p_host_id_148963669,int64
+p_host_id_149379579,int64
+p_host_id_151238588,int64
+p_host_id_151248865,int64
+p_host_id_151308976,int64
+p_host_id_152237835,int64
+p_host_id_152502955,int64
+p_host_id_153109836,int64
+p_host_id_153568352,int64
+p_host_id_154342968,int64
+p_host_id_154540888,int64
+p_host_id_155083989,int64
+p_host_id_155595193,int64
+p_host_id_155919128,int64
+p_host_id_156053359,int64
+p_host_id_156575751,int64
+p_host_id_157054088,int64
+p_host_id_157361364,int64
+p_host_id_158218784,int64
+p_host_id_158837906,int64
+p_host_id_159885470,int64
+p_host_id_159978864,int64
+p_host_id_160205390,int64
+p_host_id_160661353,int64
+p_host_id_160750677,int64
+p_host_id_161161895,int64
+p_host_id_161497923,int64
+p_host_id_163251048,int64
+p_host_id_163848078,int64
+p_host_id_164166018,int64
+p_host_id_165422704,int64
+p_host_id_166004722,int64
+p_host_id_169085368,int64
+p_host_id_169902109,int64
+p_host_id_171686913,int64
+p_host_id_172334185,int64
+p_host_id_173101497,int64
+p_host_id_175681752,int64
+p_host_id_175943692,int64
+p_host_id_178096049,int64
+p_host_id_178702033,int64
+p_host_id_180283497,int64
+p_host_id_181779942,int64
+p_host_id_183805757,int64
+p_host_id_183914990,int64
+p_host_id_184906834,int64
+p_host_id_187813188,int64
+p_host_id_188938217,int64
+p_host_id_188939923,int64
+p_host_id_189235334,int64
+p_host_id_190645992,int64
+p_host_id_191235406,int64
+p_host_id_191449187,int64
+p_host_id_193540040,int64
+p_host_id_194167208,int64
+p_host_id_196912933,int64
+p_host_id_200455160,int64
+p_host_id_201935605,int64
+p_host_id_202522408,int64
+p_host_id_203599098,int64
+p_host_id_205269848,int64
+p_host_id_206528348,int64
+p_host_id_208241385,int64
+p_host_id_208829554,int64
+p_host_id_211715498,int64
+p_host_id_211778142,int64
+p_host_id_212359760,int64
+p_host_id_213613694,int64
+p_host_id_214706437,int64
+p_host_id_215660864,int64
+p_host_id_216116811,int64
+p_host_id_216849347,int64
+p_host_id_217617282,int64
+p_host_id_217940047,int64
+p_host_id_218473728,int64
+p_host_id_218491837,int64
+p_host_id_219049252,int64
+p_host_id_220130358,int64
+p_host_id_220420185,int64
+p_host_id_222794846,int64
+p_host_id_224379152,int64
+p_host_id_224820689,int64
+p_host_id_224829568,int64
+p_host_id_225108215,int64
+p_host_id_226035718,int64
+p_host_id_227190555,int64
+p_host_id_227889113,int64
+p_host_id_228074003,int64
+p_host_id_228911273,int64
+p_host_id_229143484,int64
+p_host_id_230850564,int64
+p_host_id_232009663,int64
+p_host_id_232171259,int64
+p_host_id_233908696,int64
+p_host_id_235950637,int64
+p_host_id_236156502,int64
+p_host_id_236817626,int64
+p_host_id_237078658,int64
+p_host_id_238179467,int64
+p_host_id_238548804,int64
+p_host_id_238705380,int64
+p_host_id_244600805,int64
+p_host_id_244969139,int64
+p_host_id_245199133,int64
+p_host_id_245574213,int64
+p_host_id_247718902,int64
+p_host_id_248463000,int64
+p_host_id_251933716,int64
+p_host_id_252824346,int64
+p_host_id_255801185,int64
+p_host_id_256237272,int64
+p_host_id_257439917,int64
+p_host_id_257628897,int64
+p_host_id_258974203,int64
+p_host_id_259272534,int64
+p_host_id_261039449,int64
+p_host_id_261646616,int64
+p_host_id_263093704,int64
+p_host_id_263752104,int64
+p_host_id_266312920,int64
+p_host_id_266560394,int64
+p_host_id_268089102,int64
+p_host_id_270119796,int64
+p_host_id_270304636,int64
+p_host_id_272001812,int64
+p_host_id_272082418,int64
+p_host_id_272278152,int64
+p_host_id_272593664,int64
+p_host_id_275833371,int64
+p_host_id_275849638,int64
+p_host_id_279124542,int64
+p_host_id_282505012,int64
+p_host_id_285344759,int64
+p_host_id_287098257,int64
+p_host_id_292681778,int64
+p_host_id_293553762,int64
+p_host_id_297416224,int64
+p_host_id_297860058,int64
+p_host_id_298551564,int64
+p_host_id_299340250,int64
+p_host_id_301744764,int64
+p_host_id_305017623,int64
+p_host_id_305274008,int64
+p_host_id_305860570,int64
+p_host_id_306011239,int64
+p_host_id_306329570,int64
+p_host_id_307979339,int64
+p_host_id_310450960,int64
+p_host_id_310662379,int64
+p_host_id_312046089,int64
+p_host_id_316148588,int64
+p_host_id_318064329,int64
+p_host_id_319011975,int64
+p_host_id_328087660,int64
+p_host_id_329370033,int64
+p_host_id_331132678,int64
+p_host_id_331225367,int64
+p_host_id_331562764,int64
+p_host_id_331970881,int64
+p_host_id_336557315,int64
+p_host_id_342519983,int64
+p_host_id_344340564,int64
+p_host_id_344700889,int64
+p_host_id_346862733,int64
+p_host_id_351001469,int64
+p_host_id_351555234,int64
+p_host_id_351582312,int64
+p_host_id_355604067,int64
+p_host_id_356121729,int64
+p_host_id_357678751,int64
+p_host_id_357698265,int64
+p_host_id_357700886,int64
+p_host_id_361238479,int64
+p_host_id_362014108,int64
+p_host_id_363098141,int64
+p_host_id_365116307,int64
+p_host_id_365985792,int64
+p_host_id_369754035,int64
+p_host_id_370733465,int64
+p_host_id_371148657,int64
+p_host_id_371640674,int64
+p_host_id_373675137,int64
+p_host_id_374049727,int64
+p_host_id_378836011,int64
+p_host_id_380623623,int64
+p_host_id_380867321,int64
+p_host_id_382316683,int64
+p_host_id_382451810,int64
+p_host_id_382932550,int64
+p_host_id_383930895,int64
+p_host_id_386040727,int64
+p_host_id_387425261,int64
+p_host_id_388391823,int64
+p_host_id_388634902,int64
+p_host_id_391569847,int64
+p_host_id_393194522,int64
+p_host_id_394065719,int64
+p_host_id_395014290,int64
+p_host_id_399827239,int64
+p_host_id_400597920,int64
+p_host_id_406353986,int64
+p_host_id_406987220,int64
+p_host_id_407385860,int64
+p_host_id_408254229,int64
+p_host_id_409350031,int64
+p_host_id_409684302,int64
+p_host_id_411294872,int64
+p_host_id_412452734,int64
+p_host_id_412792920,int64
+p_host_id_416027128,int64
+p_host_id_420731690,int64
+p_host_id_421556719,int64
+p_host_id_423270067,int64
+p_host_id_423875908,int64
+p_host_id_424307279,int64
+p_host_id_426546484,int64
+p_host_id_428724673,int64
+p_host_id_430192128,int64
+p_host_id_430784940,int64
+p_host_id_433310778,int64
+p_host_id_433688210,int64
+p_host_id_433846126,int64
+p_host_id_436883310,int64
+p_host_id_437204027,int64
+p_host_id_437249260,int64
+p_host_id_437760496,int64
+p_host_id_439013531,int64
+p_host_id_441776978,int64
+p_host_id_442394018,int64
+p_host_id_443303200,int64
+p_host_id_443515330,int64
+p_host_id_445030990,int64
+p_host_id_446952127,int64
+p_host_id_454031378,int64
+p_host_id_459432105,int64
+p_host_id_459522450,int64
+p_host_id_462388177,int64
+p_host_id_463475392,int64
+p_host_id_464995389,int64
+p_host_id_467338785,int64
+p_host_id_468418352,int64
+p_host_id_469508099,int64
+p_host_id_470775244,int64
+p_host_id_470804189,int64
+p_host_id_473301884,int64
+p_host_id_474189195,int64
+p_host_id_474224382,int64
+p_host_id_474836448,int64
+p_host_id_477287323,int64
+p_host_id_477464208,int64
+p_host_id_482192119,int64
+p_host_id_483491055,int64
+p_host_id_485328839,int64
+p_host_id_487591231,int64
+p_host_id_490609566,int64
+p_host_id_490762701,int64
+p_host_id_492758013,int64
+p_host_id_492835190,int64
+p_host_id_494658101,int64
+p_host_id_495439249,int64
+p_host_id_498698680,int64
+p_host_id_499192301,int64
+p_host_id_501999278,int64
+p_host_id_502313143,int64
+p_host_id_502500151,int64
+p_host_id_503403347,int64
+p_host_id_504949339,int64
+p_host_id_506331310,int64
+p_host_id_507147132,int64
+p_host_id_507150829,int64
+p_host_id_507787766,int64
+p_host_id_508953862,int64
+p_host_id_510712953,int64
+p_host_id_512880683,int64
+p_host_id_515736729,int64
+p_host_id_516945620,int64
+p_host_id_518080572,int64
+p_host_id_518882444,int64
+p_host_id_520012073,int64
+p_host_id_520718503,int64
+p_host_id_523515799,int64
+p_host_id_525275764,int64
+p_host_id_525421476,int64
+p_host_id_526738308,int64
+p_host_id_528489640,int64
+p_host_id_530105776,int64
+p_host_id_531150506,int64
+p_host_id_531619936,int64
+p_host_id_538827522,int64
+p_host_id_538863289,int64
+p_host_id_539671081,int64
+p_host_id_539806487,int64
+p_host_id_541813300,int64
+p_host_id_541993082,int64
+p_host_id_544558363,int64
+p_host_id_546036653,int64
+p_host_id_548573234,int64
+p_p_zipcode_01125,int64
+p_p_zipcode_02026,int64
+p_p_zipcode_02102,int64
+p_p_zipcode_02108,int64
+p_p_zipcode_02109,int64
+p_p_zipcode_02110,int64
+p_p_zipcode_02111,int64
+p_p_zipcode_02112,int64
+p_p_zipcode_02113,int64
+p_p_zipcode_02114,int64
+p_p_zipcode_02115,int64
+p_p_zipcode_02116,int64
+p_p_zipcode_02117,int64
+p_p_zipcode_02118,int64
+p_p_zipcode_02119,int64
+p_p_zipcode_02120,int64
+p_p_zipcode_02121,int64
+p_p_zipcode_02122,int64
+p_p_zipcode_02124,int64
+p_p_zipcode_02125,int64
+p_p_zipcode_02126,int64
+p_p_zipcode_02127,int64
+p_p_zipcode_02128,int64
+p_p_zipcode_02129,int64
+p_p_zipcode_02130,int64
+p_p_zipcode_02131,int64
+p_p_zipcode_02132,int64
+p_p_zipcode_02133,int64
+p_p_zipcode_02134,int64
+p_p_zipcode_02135,int64
+p_p_zipcode_02136,int64
+p_p_zipcode_02137,int64
+p_p_zipcode_02138,int64
+p_p_zipcode_02141,int64
+p_p_zipcode_02145,int64
+p_p_zipcode_02150,int64
+p_p_zipcode_02152,int64
+p_p_zipcode_02163,int64
+p_p_zipcode_02199,int64
+p_p_zipcode_02201,int64
+p_p_zipcode_02203,int64
+p_p_zipcode_02205,int64
+p_p_zipcode_02210,int64
+p_p_zipcode_02212,int64
+p_p_zipcode_02214,int64
+p_p_zipcode_02215,int64
+p_p_zipcode_02222,int64
+p_p_zipcode_02245,int64
+p_p_zipcode_02446,int64
+p_p_zipcode_02447,int64
+p_p_zipcode_02492,int64
+p_property_type_Boat,int64
+p_property_type_Entire condo,int64
+p_property_type_Entire guest suite,int64
+p_property_type_Entire guesthouse,int64
+p_property_type_Entire home,int64
+p_property_type_Entire loft,int64
+p_property_type_Entire place,int64
+p_property_type_Entire rental unit,int64
+p_property_type_Entire serviced apartment,int64
+p_property_type_Entire townhouse,int64
+p_property_type_Entire vacation home,int64
+p_property_type_Houseboat,int64
+p_property_type_Private room,int64
+p_property_type_Private room in bed and breakfast,int64
+p_property_type_Private room in casa particular,int64
+p_property_type_Private room in condo,int64
+p_property_type_Private room in guest suite,int64
+p_property_type_Private room in home,int64
+p_property_type_Private room in hostel,int64
+p_property_type_Private room in loft,int64
+p_property_type_Private room in minsu,int64
+p_property_type_Private room in rental unit,int64
+p_property_type_Private room in serviced apartment,int64
+p_property_type_Private room in townhouse,int64
+p_property_type_Private room in vacation home,int64
+p_property_type_Room in aparthotel,int64
+p_property_type_Room in boutique hotel,int64
+p_property_type_Room in hotel,int64
+p_property_type_Shared room in bed and breakfast,int64
+p_property_type_Shared room in boutique hotel,int64
+p_property_type_Shared room in condo,int64
+p_property_type_Shared room in home,int64
+p_property_type_Shared room in rental unit,int64
+p_room_type_Entire home/apt,int64
+p_room_type_Hotel room,int64
+p_room_type_Private room,int64
+p_room_type_Shared room,int64
+p_bathrooms_text_0 baths,int64
+p_bathrooms_text_0 shared baths,int64
+p_bathrooms_text_1 bath,int64
+p_bathrooms_text_1 private bath,int64
+p_bathrooms_text_1 shared bath,int64
+p_bathrooms_text_1.5 baths,int64
+p_bathrooms_text_1.5 shared baths,int64
+p_bathrooms_text_2 baths,int64
+p_bathrooms_text_2 shared baths,int64
+p_bathrooms_text_2.5 baths,int64
+p_bathrooms_text_2.5 shared baths,int64
+p_bathrooms_text_3 baths,int64
+p_bathrooms_text_3 shared baths,int64
+p_bathrooms_text_3.5 baths,int64
+p_bathrooms_text_4.5 baths,int64
+p_bathrooms_text_5 baths,int64
+p_bathrooms_text_5.5 baths,int64
+p_bathrooms_text_6 baths,int64
+p_bathrooms_text_Half-bath,int64
+p_host_response_time_a few days or more,int64
+p_host_response_time_nan,int64
+p_host_response_time_within a day,int64
+p_host_response_time_within a few hours,int64
+p_host_response_time_within an hour,int64
+p_host_neighbourhood_Allston,int64
+p_host_neighbourhood_Allston-Brighton,int64
+p_host_neighbourhood_Back Bay,int64
+p_host_neighbourhood_Back Bay West,int64
+p_host_neighbourhood_Bay Village,int64
+p_host_neighbourhood_Beacon Hill,int64
+p_host_neighbourhood_Belmar,int64
+p_host_neighbourhood_Blackstone Boulevard Realty Plat Historic District,int64
+p_host_neighbourhood_Boston Theater District,int64
+p_host_neighbourhood_Bowdoin North / Mount Bowdoin,int64
+p_host_neighbourhood_Boylston Street,int64
+p_host_neighbourhood_Brewster,int64
+p_host_neighbourhood_Brighton,int64
+p_host_neighbourhood_Brook Farm,int64
+p_host_neighbourhood_Brookline,int64
+p_host_neighbourhood_Bywater,int64
+p_host_neighbourhood_Cambridge,int64
+p_host_neighbourhood_Cambridgeport,int64
+p_host_neighbourhood_Cedar Grove,int64
+p_host_neighbourhood_Central City,int64
+p_host_neighbourhood_Charlestown,int64
+p_host_neighbourhood_Chinatown,int64
+p_host_neighbourhood_City Point,int64
+p_host_neighbourhood_Codman Square,int64
+p_host_neighbourhood_Columbus Park / Andrew Square,int64
+p_host_neighbourhood_Commonwealth,int64
+p_host_neighbourhood_Coolidge Corner,int64
+p_host_neighbourhood_D Street / West Broadway,int64
+p_host_neighbourhood_Dennis Port,int64
+p_host_neighbourhood_Dorchester,int64
+p_host_neighbourhood_Dorchester Center,int64
+p_host_neighbourhood_Downtown,int64
+p_host_neighbourhood_Downtown Crossing,int64
+p_host_neighbourhood_Dudley / Brunswick King,int64
+p_host_neighbourhood_Eagle Hill,int64
+p_host_neighbourhood_East Boston,int64
+p_host_neighbourhood_East Falmouth,int64
+p_host_neighbourhood_Fairmount Hill,int64
+p_host_neighbourhood_Fenway/Kenmore,int64
+p_host_neighbourhood_Fenway–Kenmore,int64
+p_host_neighbourhood_Financial District,int64
+p_host_neighbourhood_Forest Hills / Woodbourne,int64
+p_host_neighbourhood_Franklin Field North,int64
+p_host_neighbourhood_Franklin Field South,int64
+p_host_neighbourhood_Gateway District,int64
+p_host_neighbourhood_Government Center,int64
+p_host_neighbourhood_Harbor View / Orient Heights,int64
+p_host_neighbourhood_Harvard Square,int64
+p_host_neighbourhood_Hawthorne,int64
+p_host_neighbourhood_Hell's Kitchen,int64
+p_host_neighbourhood_Hyde Park,int64
+p_host_neighbourhood_Islington,int64
+p_host_neighbourhood_Jamaica Plain,int64
+p_host_neighbourhood_Jeffries Point,int64
+p_host_neighbourhood_Leather District,int64
+p_host_neighbourhood_Longwood Medical and Academic Area,int64
+p_host_neighbourhood_Lower Allston,int64
+p_host_neighbourhood_Lower Washington / Mount Hope,int64
+p_host_neighbourhood_Malden,int64
+p_host_neighbourhood_Mattapan,int64
+p_host_neighbourhood_Medford Street / The Neck,int64
+p_host_neighbourhood_Metropolitan Hill / Beech Street,int64
+p_host_neighbourhood_Mission Hill,int64
+p_host_neighbourhood_Neighborhood Nine,int64
+p_host_neighbourhood_Newport East,int64
+p_host_neighbourhood_Newton,int64
+p_host_neighbourhood_Newton Corner,int64
+p_host_neighbourhood_Newton Highlands,int64
+p_host_neighbourhood_Noe Valley,int64
+p_host_neighbourhood_North End,int64
+p_host_neighbourhood_Oak Square,int64
+p_host_neighbourhood_Orient Heights,int64
+p_host_neighbourhood_Paradise Valley Village,int64
+p_host_neighbourhood_Peoplestown,int64
+p_host_neighbourhood_Popponesset,int64
+p_host_neighbourhood_Prudential / St. Botolph,int64
+p_host_neighbourhood_Redwood City,int64
+p_host_neighbourhood_Rockport,int64
+p_host_neighbourhood_Roslindale,int64
+p_host_neighbourhood_Roxbury,int64
+p_host_neighbourhood_Seventh Ward,int64
+p_host_neighbourhood_South Beach,int64
+p_host_neighbourhood_South Boston,int64
+p_host_neighbourhood_South End,int64
+p_host_neighbourhood_South Sanford,int64
+p_host_neighbourhood_Southern Mattapan,int64
+p_host_neighbourhood_Spring Hill,int64
+p_host_neighbourhood_St. Elizabeth's,int64
+p_host_neighbourhood_Stony Brook / Cleary Square,int64
+p_host_neighbourhood_Sun Bay South,int64
+p_host_neighbourhood_Theater District,int64
+p_host_neighbourhood_Upper East Side,int64
+p_host_neighbourhood_Vineyard Haven,int64
+p_host_neighbourhood_Waban,int64
+p_host_neighbourhood_Wanskuck,int64
+p_host_neighbourhood_Ward Two,int64
+p_host_neighbourhood_Watertown,int64
+p_host_neighbourhood_Wellington Hill,int64
+p_host_neighbourhood_West End,int64
+p_host_neighbourhood_West Fens,int64
+p_host_neighbourhood_West Roxbury,int64
+p_host_neighbourhood_West Yarmouth,int64
+p_host_neighbourhood_White Rock East,int64
+p_host_neighbourhood_nan,int64
